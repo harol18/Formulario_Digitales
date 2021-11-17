@@ -1,0 +1,1127 @@
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.configuracion.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.coordinadores.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.entidades.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormOrden.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.login.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.oficina.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.desembolso.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Administrador.resources
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Proyectos\Formalizacion\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.desembolso.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Administrador.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.configuracion.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.coordinadores.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.entidades.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormOrden.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.login.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.oficina.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Proyectos\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.desembolso.resources
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormOrden.resources
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Proyectos C#\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.desembolso.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormOrden.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.desembolso.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormOrden.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Desembolso\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.FormConvenios.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.FormConvenios.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\VoBo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.FormConvenios.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.simulador.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v1\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Formdia.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos_dia.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Formdia.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos_dia.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2 - copia\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_archivos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Formdia.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos_dia.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Colpensiones\Colpensiones v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Planos_dia.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FormGiros.resources
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.Informes.resources
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\BBVA\Desktop\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.FrmCorreos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FrmEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.FrmCorreos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formularios.FrmEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\Convenios Digitales - correo\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital ajuste html\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v2\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csprojAssemblyReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\Google.Protobuf.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\Renci.SshNet.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\MySql.Data.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\BBVA\Desktop\Desarrollo c# fabrica\VoBo Pagador\VoBo Digital v3\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cambiar_Contraseña.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cambiar_Contraseña.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Reporteria.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_Fopep.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Reporte_Seguros.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v4\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.AssemblyReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.AssemblyReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cambiar_Contraseña.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Reporte_Seguros.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Reporteria.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.AssemblyReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cambiar_Contraseña.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Cargue_Fopep.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Reporte_Seguros.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Reporteria.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v6\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.AssemblyReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Interop.OutlookSocialProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Interop.SharePointProvider.dll
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cambiar_Contraseña.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Reporte_Seguros.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Reporteria.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Respuesta_Fopep.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Planos_Fopep.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v7\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cargue_Archivos_Fopep.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Respuesta_Fopep.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cargue_Archivos_Fopep.resources
+C:\Users\CE29640\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Planos_Fopep.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe.config
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.exe
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Usuarios_planta.pdb
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\FontAwesome.Sharp.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Drawing.Common.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Zstandard.Net.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\Ubiety.Dns.Core.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Buffers.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Compression.LZ4.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\K4os.Hash.xxHash.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Memory.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.Numerics.Vectors.dll
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.pdb
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ClosedXML.xml
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\DocumentFormat.OpenXml.xml
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\ExcelNumberFormat.xml
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\SpreadsheetLight.xml
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\bin\Release\System.IO.Packaging.xml
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.AssemblyReference.cache
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.ResolveComReference.cache
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cambiar_Contraseña.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Respuesta_Fopep.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Matriz_Convenios.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Reporte_Seguros.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.VoBo.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Capa_presentacion.Login.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Cargue_Archivos_Fopep.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEnvio_Correos.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.FormEstado_Operaciones.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Formulario_Captura.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Planos_Fopep.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Properties.Resources.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.Reporteria.resources
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.GenerateResource.cache
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CoreCompileInputs.cache
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.csproj.CopyComplete
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.exe
+D:\Desktop\Desarrollo\VoBo Digital v5\Usuarios_planta\Usuarios_planta\obj\Release\Usuarios_planta.pdb
